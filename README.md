@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joshcarter-ops" alt="joshcarter-ops" /></a> </p>
 
-- 🔭 I’m currently working on many projects within **DVSA**
+- 🔭 I’m currently working on many private projects within the **DVSA**
 
 - 🌱 I’m currently learning **GitHub Actions & Python UI Design**
 
